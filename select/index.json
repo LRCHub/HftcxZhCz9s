@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "フリコドウル",
+  "base_artist": "HIMEHINA",
+  "createdAt": "2026-03-18T03:37:06.329094Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フリコドウル",
+      "artist": "HIMEHINA",
+      "has_synced": false,
+      "path": "select/pl_01_フリコドウル_HIMEHINA.txt"
+    }
+  ]
+}
